@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YaroslavXm
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on C# Projects
 - 📫 How to reach me: Send me message in Discord
 - 😄 Pronouns: Xmgam3s
